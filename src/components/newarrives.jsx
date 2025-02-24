@@ -33,18 +33,12 @@ const WatchesSection = () => {
     <div className="bg-black text-white min-h-screen p-8 column md:flex">
       {/* Header Section */}
       <div className="mb-16 mr-24">
-        <h1 className="text-4xl font-light mb-4">
-          <span className="bg-gradient-to-r from-white via-yellow-400 to-blue-500 bg-clip-text text-transparent">
-            NUESTROS
-          </span>
+        <h1 className="text-4xl font-raleway font-thin mb-4">
+          NUESTROS
           <br />
-          <span className="bg-gradient-to-r from-white via-yellow-400 to-blue-500 bg-clip-text text-transparent">
-            RELOJES
-          </span>
+          RELOJES
           <br />
-          <span className="bg-gradient-to-r from-white via-yellow-400 to-blue-500 bg-clip-text text-transparent">
-            MAS
-          </span>
+          MAS
           <br />
           <span className="text-white font-bold">EXCLUSIVOS</span>
         </h1>

@@ -12,17 +12,17 @@ const ContactSection = ({
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-10 md:gap-40 p-4 md:p-8">
         {/* Text Content */}
         <div className="w-full md:w-1/2 flex flex-col items-center text-center space-y-6 px-4">
-          <h2 className="text-2xl md:text-3xl lg:text-4xl font-serif tracking-wider leading-relaxed">
+          <h2 className="text-2xl md:text-3xl lg:text-4xl font-cmu tracking-wider leading-relaxed">
             {title}
           </h2>
 
-          <p className="text-base md:text-lg font-serif leading-relaxed max-w-lg mx-auto px-10 md:px-20 md:py-16">
+          <p className="text-base md:text-lg font-cmu leading-relaxed max-w-lg mx-auto px-10 md:px-20 md:py-16">
             {description}
           </p>
 
           <a
             href={buttonLink}
-            className="inline-block mt-6 px-12 py-3 border border-black text-black hover:bg-black hover:text-white transition-colors duration-300 font-serif tracking-wider"
+            className="inline-block mt-6 px-12 py-3 border border-black text-black hover:bg-black hover:text-white transition-colors duration-300 font-cmu tracking-wider"
           >
             {buttonText}
           </a>

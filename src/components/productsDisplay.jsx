@@ -55,7 +55,7 @@ const ProductCard = ({ title, size, description, link, reverse, image }) => {
 
       <div className="relative w-full md:w-1/2 flex flex-col  md:p-[3rem] text-center">
         <div>
-          <h1 className="text-3xl mt-5 md:text-3xl xl:text-4xl tracking-wide">
+          <h1 className="text-3xl mt-5  xl:text-4xl tracking-wide">
             {title}
           </h1>
           <h2 className="text-lg md:text-xl font-raleway font-extralight italic text-white text-right">
