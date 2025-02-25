@@ -14,7 +14,7 @@ const Header = () => {
         <ul className="content-space text-white md:flex text-lg items-center">
           {/* Desktop Links - Left Side */}
           <li className="m-10 my-auto hidden md:block">
-            <a href="" className="hover:text-gray-300 transition-colors">
+            <a href="/watches" className="hover:text-gray-300 transition-colors">
               Relojes
             </a>
           </li>
@@ -52,7 +52,7 @@ const Header = () => {
             </a>
           </li>
           <li className="m-10 my-auto hidden md:block">
-            <a href="" className="hover:text-gray-300 transition-colors">
+            <a href="/boutiques" className="hover:text-gray-300 transition-colors">
               Boutiques
             </a>
           </li>

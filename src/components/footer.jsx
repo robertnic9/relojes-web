@@ -104,7 +104,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="/boutiques" className="hover:underline">
                   Buscar una boutique
                 </a>
               </li>

@@ -1,6 +1,5 @@
 import React from "react";
 
-// Datos de ejemplo para demostración
 const demoProducts = [
   {
     title: "ROLEX GMT SUBMARINER",
@@ -22,9 +21,8 @@ const demoProducts = [
   },
   {
     title: "Vacheron Constantin",
-    size: "Overseas Tourbillon ",
-    description: 
-    `Vacheron Constantin Métiers d'Art El Vacheron Constantin Métiers d'Art es una obra de arte en cada detalle. Creado por maestros artesanos, este reloj exclusivo combina la alta relojería con técnicas artísticas ancestrales. Con diseños únicos en la esfera y acabados impecables, es perfecto para los amantes del lujo y el arte en su máxima expresión.`,
+    size: "Métiers d'Art",
+    description: `Vacheron Constantin Métiers d'Art El Vacheron Constantin Métiers d'Art es una obra de arte en cada detalle. Creado por maestros artesanos, este reloj exclusivo combina la alta relojería con técnicas artísticas ancestrales. Con diseños únicos en la esfera y acabados impecables, es perfecto para los amantes del lujo y el arte en su máxima expresión.`,
     link: "/discover-more",
     image: "/media/prod3.avif",
     reverse: false,
